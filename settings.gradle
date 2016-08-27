@@ -1,0 +1,3 @@
+rootProject.name='prode5-root'
+
+include 'prode5-service'
